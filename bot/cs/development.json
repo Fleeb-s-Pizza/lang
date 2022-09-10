@@ -1,0 +1,20 @@
+{
+    "commands": {
+        "build": {
+            "title": "Build Informace",
+            "description": "Toto jsou build informace o botovi.",
+            "uptime": {
+                "title": "Uptime",
+                "value": "[minutes] minut a [seconds] vteřin"
+            },
+            "modules": {
+                "title": "Moduly",
+                "value": "[modules]"
+            },
+            "commands": {
+                "title": "Příkazy",
+                "value": "[commands]"
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "commands": {
+        "build": {
+            "title": "Build Information",
+            "description": "This is the build information for the bot.",
+            "uptime": {
+                "title": "Uptime",
+                "value": "[minutes] minutes and [seconds] seconds"
+            },
+            "modules": {
+                "title": "Modules",
+                "value": "[modules] modules loaded"
+            },
+            "commands": {
+                "title": "Commands",
+                "value": "[commands] commands loaded"
+            }
+        }
+    }
+}
