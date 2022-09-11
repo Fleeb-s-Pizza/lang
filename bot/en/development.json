@@ -14,7 +14,28 @@
             "commands": {
                 "title": "Commands",
                 "value": "[commands] commands loaded"
-            }
+            },
+            "guilds": {
+                "title": "Guilds",
+                "value": "[guilds]"
+            },
+            "users": {
+                "title": "Users",
+                "value": "[users]"
+            },
+            "channels": {
+                "title": "Channels",
+                "value": "[channels]"
+            },
+            "cpu": {
+                "title": "CPU",
+                "value": "[cpu]%"
+            },
+            "memory": {
+                "title": "Memory (Heap)",
+                "value": "[memory]Mb"
+            },
+            "footer": "Created with ❤️ in TypeScript!"
         }
     }
 }
