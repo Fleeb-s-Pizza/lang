@@ -1,0 +1,8 @@
+{
+    "commands": {
+        "colors": {
+            "title": "Colors",
+            "description": "List of colors for **`[module]`** module!"
+        }
+    }
+}
