@@ -17,6 +17,24 @@
                 "title": "Color reset!",
                 "description": "Color `[key]` for **`[module]`** module has been reset to default!"
             }
+        },
+
+        "settings": {
+            "title": "Settings",
+            "description": "List of settings for **`[module]`** module!"
+        },
+        "setting": {
+            "not_exists": "Setting **`[key]`** does not exist in [module]!",
+            
+            "set": {
+                "title": "Setting updated!",
+                "description": "Setting **`[key]`** for **`[module]`** module has been updated to **`[text]`**!"
+            },
+
+            "reset": {
+                "title": "Setting reset!",
+                "description": "Setting **`[key]`** for **`[module]`** module has been reset to default!"
+            }
         }
     }
 }
