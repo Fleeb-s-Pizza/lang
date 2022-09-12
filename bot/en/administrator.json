@@ -3,6 +3,20 @@
         "colors": {
             "title": "Colors",
             "description": "List of colors for **`[module]`** module!"
+        },
+        "color": {
+            "not_exists": "Color **`[key]`** does not exist in [module]!",
+            "invalid": "Color code **`[color]`** is invalid! Please use a valid color code. HEX only!",
+            
+            "set": {
+                "title": "Color updated!",
+                "description": "Color `[key]` for **`[module]`** module has been updated to **`[color]`**!"
+            },
+
+            "reset": {
+                "title": "Color reset!",
+                "description": "Color `[key]` for **`[module]`** module has been reset to default!"
+            }
         }
     }
 }
