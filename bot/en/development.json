@@ -3,6 +3,7 @@
         "build": {
             "title": "Build Information",
             "description": "This is the build information for the bot.",
+
             "uptime": {
                 "title": "Uptime",
                 "value": "[minutes] minutes and [seconds] seconds"
@@ -35,7 +36,20 @@
                 "title": "Memory (Heap)",
                 "value": "[memory]Mb"
             },
-            "footer": "Created with ❤️ in TypeScript!"
+            "footer": "Created with ❤️ in TypeScript by Fleeb's Team!"
+        },
+        "info": {
+            "title": "Informations about Fleeb's Pizza",
+            "description": "Fleeb's Pizza is a bot that allows you to order pizza from the comfort of your Discord server. No. Now seriously. Our bot is a fully customizable discord bot that is able to replace almost all discord bots on your server. We have various pizza boxes with loot, shop, a revamped economy, leveling, embed creator, reaction roles, audit log, tickets, etc...",
+
+            "links": {
+                "website": "**[web-emoji] Website:** [website]",
+                "discord": "**[discord-emoji] Discord:** [discord]",
+                "wiki": "**[wiki-emoji] Wiki:** [wiki]",
+                "github": "**[github-emoji] GitHub:** [github]"
+            },
+
+            "footer": "Created with ❤️ in TypeScript by Fleeb's Team!"
         }
     }
 }
