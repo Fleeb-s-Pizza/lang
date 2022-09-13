@@ -1,0 +1,14 @@
+{
+    "commands": {
+        "wallet": {
+            "title": "[user]'s Wallet",
+            "description": "Here you can see user wallet and bank account balance and also her bank `*ipr`.",
+
+            "bank": "**[bank-emoji] Bank:** `[bank]` `(*ipr: [ipr])`",
+            "wallet": "**[wallet-emoji] Wallet:** `[wallet]`",
+            "total": "**[total-emoji] Total:** `[total]`",
+
+            "footer": "*interest per day is bassically percentage of your bank balance that you get every day."
+        }
+    }
+}
