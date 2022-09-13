@@ -46,6 +46,30 @@
             "total": "**[total-emoji] Total:** `[total]`"
           }
         }
+      },
+
+      "pay": {
+        "errors": {
+            "yourself": "You can't pay yourself.",
+            "amount": "You must pay at least `1`.",
+            "digits-unsupported": "Your amount contains digits. You can pay only with full numbers.",
+            "not-enough-money": "You don't have enough money to pay `[amount]`."
+        },
+
+        "success": {
+            "title": "Payment successful",
+            "description": "You have successfully paid `[amount]` to `[user]`.",
+
+            "new-state": "New state:",
+            "bank": "**[bank-emoji] Bank:** `[bank]`",
+            "wallet": "**[wallet-emoji] Wallet:** `[wallet]`",
+            "total": "**[total-emoji] Total:** `[total]`",
+
+            "new-target-state": "New target state:",
+            "target-bank": "**[bank-emoji] Bank:** `[target-bank]`",
+            "target-wallet": "**[wallet-emoji] Wallet:** `[target-wallet]`",
+            "target-total": "**[total-emoji] Total:** `[target-total]`"
+        }
       }
     }
   }
