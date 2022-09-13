@@ -9,6 +9,44 @@
             "total": "**[total-emoji] Total:** `[total]`",
 
             "footer": "*interest per day is bassically percentage of your bank balance that you get every day."
+        },
+
+        "bank": {
+            "deposit": {
+                "not-enough": {
+                    "title": "Not enough money",
+                    "description": "You don't have enough money to deposit `[amount]`. You have `[wallet]` in your wallet.",
+                    "footer": "You can deposit `[wallet]`."
+                },
+
+                "success": {
+                    "title": "Deposit successful",
+                    "description": "You have successfully deposited `[amount]` to your bank account.",
+                    "new-state": "New state:",
+                    "bank": "**[bank-emoji] Bank:** `[bank]` `(*ipr: [ipr])`",
+                    "wallet": "**[wallet-emoji] Wallet:** `[wallet]`",
+                    "total": "**[total-emoji] Total:** `[total]`"
+                }
+            },
+
+            "withdraw": {
+                "not_engough": {
+                    "title": "Not enough money",
+                    "description": "You don't have enough money to withdraw `[amount]`. You have `[bank]` in your bank account.",
+                    "footer": "You can withdraw `[bank]`."
+                },
+
+                "success": {
+                    "title": "Withdraw successful",
+                    "description": "You have successfully withdrawn `[amount]` from your bank account.",
+
+                    "new-state": "New state:",
+                    "bank": "**[bank-emoji] Bank:** `[bank]` `(*ipr: [ipr])`",
+                    "wallet": "**[wallet-emoji] Wallet:** `[wallet]`",
+                    "total": "**[total-emoji] Total:** `[total]`"
+                }
+            
+            }
         }
     }
 }
