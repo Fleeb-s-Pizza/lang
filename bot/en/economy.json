@@ -89,6 +89,15 @@
             "title": "Daily reward",
             "description": "You have already claimed your daily reward today. You can claim it again in [time]."
         }
+      },
+
+      "leaderboard": {
+        "loading": "Leaderboard is until now loading. Please wait a few seconds and try again.",
+        "title": "Leaderboard of richest users",
+        "description": "Here you can see the richest users of this server.",
+        "user": "[position-emoji] **`[user]`**  **[wallet] [wallet-emoji]**",
+        "end": "This leaderboard is limited to 25 users. If you want to see more users, look at the [link]",
+        "footer": "Leaderboard is updated every 60 minutes."
       }
     }
   }
