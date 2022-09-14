@@ -70,6 +70,25 @@
             "target-wallet": "**[wallet-emoji] Wallet:** `[target-wallet]`",
             "target-total": "**[total-emoji] Total:** `[target-total]`"
         }
+      },
+
+      "daily": {
+        "success": {
+            "title": "Daily reward",
+            "description": "You have successfully claimed your daily reward!",
+            "reward": "Reward:",
+            "streak": "**[streak-emoji] Streak:** `[streak]`",
+            "cash": "**[cash-emoji] Cash:** `[cash]`",
+            "new-state": "New state:",
+            "bank": "**[bank-emoji] Bank:** `[bank]`",
+            "wallet": "**[wallet-emoji] Wallet:** `[wallet]`",
+            "total": "**[total-emoji] Total:** `[total]`"
+        },
+
+        "already-claimed": {
+            "title": "Daily reward",
+            "description": "You have already claimed your daily reward today. You can claim it again in [time]."
+        }
       }
     }
   }
