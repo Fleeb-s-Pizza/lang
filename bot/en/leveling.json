@@ -1,0 +1,12 @@
+{
+  "commands": {
+    "level": {
+      "title": "Level",
+      "description": "Level",
+      "level": "Level",
+      "xp": "XP",
+      "nextlevel": "Next Level",
+      "footer": "Level {level} | {xp} XP | {nextlevel} XP to next level"
+    }
+  }
+}
