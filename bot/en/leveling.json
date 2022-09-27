@@ -1,12 +1,12 @@
 {
   "commands": {
     "level": {
-      "title": "Level",
-      "description": "Level",
-      "level": "Level",
-      "xp": "XP",
-      "nextlevel": "Next Level",
-      "footer": "Level {level} | {xp} XP | {nextlevel} XP to next level"
+      "title": "[who] Level [level] ",
+      "description": "Level Progress\n[progressBar] [progress]%",
+      "level": "Level [level]",
+      "xp": "[xp] XP",
+      "nextlevel": "[xp] / [nextLevel]",
+      "footer": "© 2022 Fleeb's Pizza | ([xp]/[nextLevel] XP)"
     }
   }
 }
